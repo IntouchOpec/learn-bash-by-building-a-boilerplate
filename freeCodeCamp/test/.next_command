@@ -58,3 +58,5 @@ ls --color=auto -la
 ls --color=auto -l
 ls --color=auto
 cd has
+pwd
+ls --color=auto
