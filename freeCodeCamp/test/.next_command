@@ -203,3 +203,5 @@ find -name
 find -name client/
 find -name cl
 find -name index.html
+ls --color=auto
+find -name styles.css
