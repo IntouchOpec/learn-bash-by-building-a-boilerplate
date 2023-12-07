@@ -302,3 +302,9 @@ find client/assets/fonts/
 touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
+rmdir client/assets/fonts/
+rmdir client/assets/fonts/
+rmdir client/assets/fonts
+rmdir client/assets/fonts/
+rm client/assets/fonts/
+rm --help
