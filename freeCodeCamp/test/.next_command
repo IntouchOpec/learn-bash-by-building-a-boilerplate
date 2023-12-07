@@ -231,3 +231,8 @@ mkdir images
 cd images/
 ls --color=auto
 touch background.jpg
+cd ../..
+cd ..
+ls --color=auto
+cd ~/project/website/client/assets/images
+cd ../../..
