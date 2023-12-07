@@ -54,3 +54,5 @@ cd ..
 ls --color=auto
 cd node_modules/
 ls --color=auto
+ls --color=auto -la
+ls --color=auto -l
