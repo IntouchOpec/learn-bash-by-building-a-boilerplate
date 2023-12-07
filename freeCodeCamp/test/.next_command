@@ -221,3 +221,5 @@ find
 find
 cd ..
 find
+ls --color=auto
+cd client/
