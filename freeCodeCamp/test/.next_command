@@ -180,3 +180,4 @@ ls --color=auto
 cd ..
 ls --color=auto
 mv lato.ttf fonts/
+mv menlo.otf fonts
