@@ -60,3 +60,4 @@ ls --color=auto
 cd has
 pwd
 ls --color=auto
+more README.md
