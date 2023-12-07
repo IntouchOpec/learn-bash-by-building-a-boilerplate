@@ -190,3 +190,4 @@ rm src/
 rm -rf src/
 cd ..
 mkdir client/src
+mv index.html client/src/
