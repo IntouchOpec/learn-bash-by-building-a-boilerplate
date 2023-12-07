@@ -309,3 +309,4 @@ rmdir client/assets/fonts/
 rm client/assets/fonts/
 rm --help
 rm -r fonts/
+ls --color=auto
