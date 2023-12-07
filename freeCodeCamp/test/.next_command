@@ -211,3 +211,13 @@ ls --color=auto client/src/
 clear
 ls --color=auto
 find -name src
+ls --color=auto
+cd client/
+gind
+find
+ls --color=auto
+ls --color=auto -la
+find
+find
+cd ..
+find
