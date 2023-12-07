@@ -225,3 +225,5 @@ ls --color=auto
 cd client/
 ls --color=auto
 mkdir assets
+ls --color=auto
+cd assets/
