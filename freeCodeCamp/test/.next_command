@@ -335,3 +335,4 @@ copy --help
 copy --help
 copy -help
 cp --help
+cp -r website-boilerplate toms-website
