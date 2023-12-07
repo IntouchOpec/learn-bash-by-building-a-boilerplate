@@ -96,3 +96,9 @@ touch index.js
 ls --color=auto
 touch .gitignore
 ls --color=auto
+more .gitignore
+__vsc_prompt_cmd_original
+ls --color=auto
+ls --color=auto -la
+ls --color=auto -help
+ls --color=auto --help
