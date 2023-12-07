@@ -236,3 +236,6 @@ cd ..
 ls --color=auto
 cd ~/project/website/client/assets/images
 cd ../../..
+ls --color=auto
+ls --color=auto
+cd images/
