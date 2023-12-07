@@ -277,3 +277,6 @@ ls --color=auto
 rm images/
 rmdir images/
 ls --color=auto
+mkdir client/assets
+ls --color=auto
+mkdir client/assets/icons
