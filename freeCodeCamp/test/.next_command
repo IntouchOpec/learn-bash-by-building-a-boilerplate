@@ -227,3 +227,4 @@ ls --color=auto
 mkdir assets
 ls --color=auto
 cd assets/
+mkdir images
