@@ -342,3 +342,4 @@ find
 find website-boilerplate/
 lls
 clear
+echo goodbye terminal
