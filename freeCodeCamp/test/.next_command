@@ -245,3 +245,11 @@ ls --color=auto
 ls --color=auto
 cd ..
 ls --color=auto
+cd client/assets/images/
+cd ../../..
+find -name client/assets/images/
+find -name client/assets/images
+find -name client/assets
+find
+find -name image
+find -name images
