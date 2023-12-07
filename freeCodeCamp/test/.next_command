@@ -25,3 +25,11 @@ cd ~/project
 pwd
 ls --color=auto
 cd freeCodeCamp/
+l
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+ls --color=auto
+ls --color=auto -la
+cd ..
+cd freeCodeCamp/
+pwd
