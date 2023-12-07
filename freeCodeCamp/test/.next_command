@@ -261,3 +261,9 @@ l
 ls --color=auto
 mv header.png client/assets/images
 mv images/footer.jpeg client/assets/images/
+ls --color=auto
+ls --color=auto
+cd ..
+ls --color=auto
+cd website/
+find
