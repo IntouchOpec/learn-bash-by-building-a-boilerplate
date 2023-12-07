@@ -270,3 +270,9 @@ find
 rmdir images/
 ls --color=auto
 rm images/background.jpg
+cd ..
+cd website/
+rmdir ../website/
+ls --color=auto
+rm images/
+rmdir images/
