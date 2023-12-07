@@ -166,3 +166,5 @@ ls --color=auto
 touch lato.font
 cat mv lato.font lato.ttf
 mv lato.font lato.ttf
+ls --color=auto
+mv menlo.font menlo.otf
