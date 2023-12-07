@@ -295,3 +295,7 @@ find -name icons
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find -name client/assets/fonts/
+find -name fonts
+find
+find client/assets/fonts/
