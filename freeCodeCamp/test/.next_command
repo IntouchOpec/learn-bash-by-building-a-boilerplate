@@ -205,3 +205,9 @@ find -name cl
 find -name index.html
 ls --color=auto
 find -name styles.css
+ls --color=auto
+ls --color=auto client/
+ls --color=auto client/src/
+clear
+ls --color=auto
+find -name src
